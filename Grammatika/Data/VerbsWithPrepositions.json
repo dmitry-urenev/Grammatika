@@ -1,0 +1,597 @@
+﻿[
+  {
+    "Id": "abhaengen",
+    "Lexeme": "abhängen",
+    "Prepositions": [ "von jm|etwD" ],
+    "Translation": "",
+    "Examples": [ "Es hängt vom Wetter ab, ob der Ausflug stattfindet." ]
+  },
+  {
+    "Id": "achten",
+    "Lexeme": "achten",
+    "Prepositions": [ "auf jn|etwA" ],
+    "Translation": "",
+    "Examples": [ "Der Autofahrer achtete nicht auf das Überholverbot." ]
+  },
+  {
+    "Id": "anfangen",
+    "Lexeme": "anfangen",
+    "Prepositions": [ "mit etwD" ],
+    "Translation": "",
+    "Examples": [ "Er hat vor einem Monat mit dem Tennisspielen angefangen." ]
+  },
+  {
+    "Id": "ankommen",
+    "Lexeme": "ankommen",
+    "DisplayText":  "es kommt an",
+    "Prepositions": [ "auf jn|etwA" ],
+    "Translation": "",
+    "Examples": [ "In der Prüfung kommt es vor allem auf gute Nerven an." ]
+  },
+  {
+    "Id": "anmelden",
+    "Lexeme": "anmelden",
+    "DisplayText": "s anmelden",
+    "Reflexive": true,
+    "Prepositions": [ "zu etwD" ],
+    "Translation": "",
+    "Examples": [ "Ich melde mich zur Prüfung an." ]
+  },
+  {
+    "Id": "ansehen",
+    "Lexeme": "ansehen",
+    "DisplayText": "jn|etwA ansehen",
+    "Prepositions": [ "als etwA" ],
+    "Translation": "",
+    "Examples": [ "Picasso wird als der größte Maler der Moderne angesehen." ]
+  },
+  {
+    "Id": "antworten",
+    "Lexeme": "antworten",
+    "DisplayText": "jm antworten",
+    "Prepositions": [ "auf etwA" ],
+    "Translation": "",
+    "Examples": [ "Bitte antworte mir auf meine Frage!" ]
+  },
+  {
+    "Id": "aergern",
+    "Lexeme": "ärgern",
+    "Reflexive": true,
+    "DisplayText": "s ärgern",
+    "Prepositions": [ "über jn|etwA" ],
+    "Translation": "",
+    "Examples": [ "Ich ärgere mich über meine schlechte Note." ]
+  },
+  {
+    "Id": "auffordern",
+    "Lexeme": "auffordern",
+    "DisplayText": "jn auffordern",
+    "Prepositions": [ "zu etwD" ],
+    "Translation": "настоятельно просить, призывать, приглашать",
+    "Examples": [ "Der Tourist wird zum Öffnen des Koffers aufgefordert." ]
+  },
+  {
+    "Id": "aufhoeren",
+    "Lexeme": "aufhören",
+    "Prepositions": [ "von etwD" ],
+    "Translation": "",
+    "Examples": [ "Er hat mit dem Rauchen aufgehört." ]
+  },
+  {
+    "Id": "aufpassen",
+    "Lexeme": "aufpassen",
+    "Prepositions": [ "auf jn|etwA" ],
+    "Translation": "",
+    "Examples": [ "Die Großmutter passt vormittags auf ihre Enkelkinder auf." ]
+  },
+  {
+    "Id": "aufregen",
+    "Lexeme": "aufregen",
+    "Reflexive": true,
+    "DisplayText": "s aufregen",
+    "Prepositions": [ "über jn|etwA" ],
+    "Translation": "возбуждаться, волноваться (из-за чего-л)",
+    "Examples": [ "Ich rege mich über die Politik der Regierung auf." ]
+  },
+  {
+    "Id": "auskommen-1",
+    "Lexeme": "auskommen",
+    "Comment": "s mit jm gut/schlecht verstehen",
+    "Prepositions": [ "mit jm" ],
+    "Translation": "",
+    "Examples": [ "Ich komme gut mit meinen Kollegen aus." ]
+  },
+  {
+    "Id": "auskommen-2",
+    "Lexeme": "auskommen",
+    "Comment": "ausreichend von etwas (z.B. Geld) haben",
+    "Prepositions": [ "mit etwD" ],
+    "Translation": "",
+    "Examples": [ "In München kommt man nicht mit 600 € pro Monat aus." ]
+  },
+  {
+    "Id": "bedanken",
+    "Lexeme": "bedanken",
+    "Reflexive": true,
+    "DisplayText": "s bedanken",
+    "Prepositions": [ "bei jm & für etwA" ],
+    "Translation": "",
+    "Examples": [ "Der Chef hat sich bei seinen Mitarbeitern für ihren Einsatz bedankt." ]
+  },
+  {
+    "Id": "beeilen",
+    "Lexeme": "beeilen",
+    "Reflexive": true,
+    "DisplayText": "s beeilen",
+    "Prepositions": [ "mit etwD" ],
+    "Translation": "",
+    "Examples": [ "Er hat sich mit der Abgabe seiner Doktorarbeit beeilt." ]
+  },
+  {
+    "Id": "befassen",
+    "Lexeme": "befassen",
+    "Reflexive": true,
+    "DisplayText": "s befassen",
+    "Prepositions": [ "mit jm|etwD" ],
+    "Translation": "заниматься (кем-л, чем-л)",
+    "Examples": [ "In seiner Doktorarbeit befasst er sich mit der deutschen Geschichte." ]
+  },
+  {
+    "Id": "befreien",
+    "Lexeme": "befreien",
+    "Reflexive": true,
+    "DisplayText": "s|jn befreien",
+    "Prepositions": [ "von etwD" ],
+    "Translation": "",
+    "Examples": [ "Der Psychologe konnte sie von ihren Ängsten befreien." ]
+  },
+  {
+    "Id": "beginnen",
+    "Lexeme": "beginnen",
+    "Prepositions": [ "mit etwD" ],
+    "Translation": "",
+    "Examples": [ "Um 9 Uhr beginnen wir mit dem Unterricht." ]
+  },
+  {
+    "Id": "beglueckwuenschen",
+    "Lexeme": "beglückwünschen",
+    "DisplayText": "jn beglückwünschen",
+    "Prepositions": [ "zu jm|etwD" ],
+    "Translation": "",
+    "Examples": [ "Mein Chef beglückwünschte mich zu meinem Lottogewinn." ]
+  },
+  {
+    "Id": "beitragen",
+    "Lexeme": "beitragen",
+    "Prepositions": [ "zu etwD" ],
+    "Translation": "вносить свой вклад (во что-л)",
+    "Examples": [ "Er trägt mit seiner Arbeit zum Gelingen des Projekts bei." ]
+  },
+  {
+    "Id": "beklagen",
+    "Lexeme": "beklagen",
+    "Reflexive": true,
+    "DisplayText": "s beklagen",
+    "Prepositions": [ "über jn|etwA" ],
+    "Translation": "",
+    "Examples": [ "Maria beklagte sich beim Hausmeister über die Ruhestörung." ]
+  },
+  {
+    "Id": "bemuehen-1",
+    "Lexeme": "bemühen",
+    "Comment": "s Mühe geben, um etwA zu erreichen",
+    "Reflexive": true,
+    "DisplayText": "s bemühen",
+    "Prepositions": [ "um etwA" ],
+    "Translation": "стараться",
+    "Examples": [ "Sie bemüht sich darum, bessere Noten zu bekommen." ]
+  },
+  // Seite 2 --------------------------------------------------------------
+  {
+    "Id": "bemuehen-2",
+    "Lexeme": "bemühen",
+    "Comment": "versuchen, jm zu helfen",
+    "Reflexive": true,
+    "DisplayText": "s bemühen",
+    "Prepositions": [ "um jn" ],
+    "Translation": "заботиться",
+    "Examples": [ "Der Sanitäter bemühte sich um den Verletzten." ]
+  },
+  {
+    "Id": "beneiden",
+    "Lexeme": "beneiden",
+    "DisplayText": "jn beneiden",
+    "Prepositions": [ "um jn|etwA" ],
+    "Examples": [ "Herr Meier beneidet Herrn Schmidt um seine Gelassenheit auch in schwierigen Situationen." ]
+  },
+  {
+    "Id": "benutzen-1",
+    "Lexeme": "benutzen",
+    "Comment": "für einen Zweck einsetzen",
+    "DisplayText": "jn|etwA benutzen",
+    "Prepositions": [ "für etwA", "zu etwD" ],
+    "Examples": [ "Er benutzt die Ferien zur Prüfungsvorbereitung / für eine Reise nach Frankreich." ]
+  },
+  {
+    "Id": "benutzen-2",
+    "Lexeme": "benutzen",
+    "Comment": "jn|etwA in einer bestimmen Funktion einsetzen",
+    "DisplayText": "etwA benutzen",
+    "Prepositions": [ "als etwA" ],
+    "Examples": [ "Er benutzt sein Schlafzimmer als Arbeitsraum." ]
+  },
+  {
+    "Id":  "berichten",
+    "Lexeme": "berichten",
+    "DisplayText": "jm berichten",
+    "Prepositions": [ "von jm|etwD", "über jn|etwA" ],
+    "Examples": [ "Der Polizist berichtete von dem | über den Unfall." ]
+  },
+  {
+    "Id": "beschaeftigen-1",
+    "Lexeme": "beschäftigen",
+    "Comment": "mit einer Tätigkeit seine Zeit verbringen",
+    "DisplayText": "s beschäftigen",
+    "Reflexive": true,
+    "Prepositions": [ "mit etwD" ],
+    "Examples": [ "Am Wochenende beschäftigte sich der Vater mit seinen Briefmarken." ]
+  },
+  {
+    "Id": "beschaeftigen-2",
+    "Lexeme": "beschäftigen",
+    "Comment": "etwA als Thema haben",
+    "DisplayText": "s beschäftigen",
+    "Reflexive": true,
+    "Prepositions": [ "mit jm|etwD" ],
+    "Examples": [ "Dieser Text beschäftigt sich mit dem Verhältnis von Mensch und Natur." ]
+  },
+  {
+    "Id": "beschraenken",
+    "Lexeme": "beschränken",
+    "DisplayText": "s beschränken",
+    "Reflexive": true,
+    "Prepositions": [ "auf etwA" ],
+    "Examples": [ "In seinem Roman beschränkte der Author sich nicht auf die Darstellung der sozialen Umstände." ]
+  },
+  {
+    "Id": "beschweren",
+    "Lexeme": "beschweren",
+    "DisplayText": "s beschweren",
+    "Reflexive": true,
+    "Prepositions": [ "bei jm & über jn|etwA" ],
+    "Examples": [ "Sie beschwerte sich bei ihrem Chef über den niedrigen Lohn." ]
+  },
+  {
+    "Id": "bestehen-1",
+    "Lexeme": "bestehen",
+    "Comment": "eine Meinung oder Forderung mit Nachdruck vertreten",
+    "DisplayText": "bestehen",
+    "Prepositions": [ "auf etwD" ],
+    "Examples": [ "Heute möchte ich für alle bezahlen. Ich bestehe darauf!" ]
+  },
+  {
+    "Id": "bestehen-2",
+    "Lexeme": "bestehen",
+    "Comment": "aus einem bestimmten Material sein",
+    "DisplayText": "bestehen",
+    "Prepositions": [ "aus etwD" ],
+    "Examples": [ "Der Tisch besteht aus wertvollem Holz." ]
+  },
+  {
+    "Id": "bestehen-3",
+    "Lexeme": "bestehen",
+    "Comment": "mehrere Teile haben",
+    "DisplayText": "bestehen",
+    "Prepositions": [ "aus etwD" ],
+    "Examples": [ "Meine Wohnung besteht aus 4 kleinen Zimmern." ]
+  },
+  {
+    "Id": "bestehen-4",
+    "Lexeme": "bestehen",
+    "Comment": "sein",
+    "DisplayText": "bestehen",
+    "Prepositions": [ "in etwD" ],
+    "Examples": [ "Die Aufgabe der Sekretärin besteht nicht darin, Kaffee zu kochen." ]
+  },
+  {
+    "Id": "beteiligen",
+    "Lexeme": "beteiligen",
+    "Comment": "aktiv mitwirken an",
+    "DisplayText": "s beteiligen",
+    "Reflexive": true,
+    "Prepositions": [ "an etwD" ],
+    "Examples": [ "Der Schüller beteiligte sich lebhaft am Unterricht." ]
+  },
+  {
+    "Id": "bewerben",
+    "Lexeme": "bewerben",
+    "DisplayText": "s bewerben",
+    "Reflexive": true,
+    "Prepositions": [ "um etwA" ],
+    "Examples": [ "Er bewarb sich um eine neue Stelle." ]
+  },
+  {
+    "Id": "bezeichnen",
+    "Lexeme": "bezeichnen",
+    "DisplayText": "jn|etwA bezeichnen",
+    "Prepositions": [ "als etwA|ADJ" ],
+    "Examples": [ "Europa wird auch als \"die Alte Welt\" bezeichnet." ]
+  },
+  {
+    "Id": "beziehen",
+    "Lexeme": "beziehen",
+    "DisplayText": "s beziehen",
+    "Reflexive": true,
+    "Prepositions": [ "auf jn|etwA" ],
+    "Examples": [ "Der Redner bezog sich auf die Worte seines Vorredners." ]
+  },
+  {
+    "Id": "bitten",
+    "Lexeme": "bitten",
+    "DisplayText": "jn bitten",
+    "Prepositions": [ "um etwA" ],
+    "Examples": [ "Ich bat meinen Vater um Geld." ]
+  },
+  {
+    "Id": "bringen",
+    "Lexeme": "bringen",
+    "DisplayText": "jn bringen",
+    "Prepositions": [ "zu etwD" ],
+    "Examples": [ "Der Clown brachte uns zum Lachen." ]
+  },
+  {
+    "Id": "danken",
+    "Lexeme": "danken",
+    "DisplayText": "jm danken",
+    "Prepositions": [ "für etwA" ],
+    "Examples": [ "Ich danke dir für deine Geduld!" ]
+  },
+  {
+    "Id": "demonstrieren",
+    "Lexeme": "demonstrieren",
+    "DisplayText": "demonstrieren",
+    "Prepositions": [ "für jn|etwA", "gegen jn|etwA" ],
+    "Examples": [ "Die Arbeiter demonstrierten für mehr Lohn." ]
+  },
+  // Siete 3 ------------------------------------------------------------
+  {
+    "Id": "denken-1",
+    "Lexeme": "denken",
+    "DisplayText": "denken",
+    "Comment": "seine Gedanken auf jn|etwA konzentrieren",
+    "Prepositions": [ "an jn|etwA" ],
+    "Examples": [ "Ich denke oft an dich und an unseren schönen Urlaub." ]
+  },
+  {
+    "Id": "denken-2",
+    "Lexeme": "denken",
+    "DisplayText": "etwA denken",
+    "Comment": "jm eine Eigenschaft zuordnen",
+    "Prepositions": [ "von jm" ],
+    "Examples": [ "Er denkt nur Gutes von mir." ]
+  },
+  {
+    "Id": "denken-3",
+    "Lexeme": "denken",
+    "DisplayText": "etwA denken",
+    "Comment": "eine Meinung zu etwD haben",
+    "Prepositions": [ "über jn|etwA" ],
+    "Examples": [ "Ist mein Vorschlag gut? Wie denkst du darüber?" ]
+  },
+  {
+    "Id": "dienen-1",
+    "Lexeme": "dienen",
+    "DisplayText": "jm dienen",
+    "Comment": "Zweck haben",
+    "Prepositions": [ "zu etwD" ],
+    "Examples": [ "Die Broschüre dient zur Information der Studenten." ]
+  },
+  {
+    "Id": "dienen-2",
+    "Lexeme": "dienen",
+    "DisplayText": "jm dienen",
+    "Comment": "Funktion haben",
+    "Prepositions": [ "als etwN" ],
+    "Examples": [ "Die Schere dient (mir) auch als Brieföffner." ]
+  },
+  {
+    "Id": "diskutieren",
+    "Lexeme": "diskutieren",
+    "DisplayText": "diskutieren",
+    "Prepositions": [ "mit jm & über etwA" ],
+    "Examples": [ "Herr Maier diskutierte mit Herrn Müller über das Fußballspeil." ]
+  },
+  {
+    "Id": "eignen-1",
+    "Lexeme": "eignen",
+    "DisplayText": "s eignen",
+    "Comment": "für eine bestimmte Zielgruppe geeignet sein",
+    "Reflexive": true,
+    "Prepositions": [ "für jn" ],
+    "Examples": [ "Das Buch eignet sich für Kinder." ]
+  },
+  {
+    "Id": "eignen-2",
+    "Lexeme": "eignen",
+    "DisplayText": "s eignen",
+    "Comment": "für eine bestimmten Zweck geeignet sein",
+    "Reflexive": true,
+    "Prepositions": [ "für etwA", "zu etwD" ],
+    "Examples": [ "Das Buch eignet sich zum Vorlesen." ]
+  },
+  {
+    "Id": "eignen-3",
+    "Lexeme": "eignen",
+    "DisplayText": "s eignen",
+    "Reflexive": true,
+    "Comment": "für eine bestimmte Funktion geeignet sein",
+    "Prepositions": [ "als etw" ],
+    "Examples": [ "Das Buch eignet sich als Reiselektüre." ]
+  },
+  {
+    "Id": "einigen",
+    "Lexeme": "einigen",
+    "DisplayText": "s einigen",
+    "Reflexive": true,
+    "Prepositions": [ "mit jm & über etwA & auf etwA" ],
+    "Examples": [ "Der Autohändler hat sich mit dem Kunden über den Preis geeinigt, und zwar auf € 10 000." ]
+  },
+{
+    "Id":  "einladen",
+    "Lexeme":  "einladen",
+    "DisplayText": "jn einladen",
+    "Prepositions": [ "zu etwD" ],
+    "Examples": [ "Hallo Liza! Ich möchte dich zu meiner Geburtstagsparty einladen!" ]
+  },{
+    "Id":  "einmischen",
+    "Lexeme":  "einmischen",
+    "DisplayText": "s einmischen",
+    "Reflexive": true,
+    "Prepositions": [ "in etwA" ],
+    "Examples": [ "Die Schwiegermutter mischte sich in ihr Leben ein." ]
+  },{
+    "Id":  "einsetzen",
+    "Lexeme":  "einsetzen",
+    "DisplayText": "s einsetzen",
+    "Reflexive": true,
+    "Prepositions": [ "für jn|etwA" ],
+    "Examples": [ "Greenpeace setzt sich für den Umweltschutz ein." ]
+  },
+  {
+    "Id": "engagieren",
+    "Lexeme": "engagieren",
+    "DisplayText": "s engagieren",
+    "Reflexive": true,
+    "Prepositions": [ "für jn|etwA" ],
+    "Examples": [ "Greenpeace engagiert sich für den Schutz der Umwelt." ]
+  },
+  {
+    "Id": "entscheiden-1",
+    "Lexeme": "entscheiden",
+    "DisplayText": "s entscheiden",
+    "Comment": "eine von mehreren Möglichkeiten wählen",
+    "Reflexive": true,
+    "Prepositions": [ "für jn|etwA", "gegen jn|etwA" ],
+    "Examples": [ "Sie entschied sich für ein Studium in Deutschland." ]
+  },
+  {
+    "Id": "entscheiden-2",
+    "Lexeme": "entscheiden",
+    "DisplayText": "entscheiden",
+    "Comment": "in einer schwierigen Situation einen Entschluss treffen",
+    "Prepositions": [ "über etwA" ],
+    "Examples": [ "Das Gericht wird über Schuld oder Unschuld des Angeklagten entscheiden." ]
+  },{
+    "Id": "entschließen",
+    "Lexeme": "entschließen",
+    "DisplayText": "s entschließen",
+    "Reflexive": true,
+    "Prepositions": [ "zu etwD" ],
+    "Examples": [ "Sie entschloss sich zu einem Studium im Ausland." ]
+  },
+  {
+    "Id": "entschuldigen",
+    "Lexeme": "entschuldigen",
+    "DisplayText": "s entschuldigen",
+    "Reflexive": true,
+    "Prepositions": [ "bei jm & für etwA" ],
+    "Examples": [ "Sie entschuldigte sich bei mir für ihr schlechtes Gedächtnis." ]
+  },
+  {
+    "Id": "entstehen",
+    "Lexeme": "entstehen",
+    "DisplayText": "entstehen",
+    "Prepositions": [ "aus etwD" ],
+    "Examples": [ "Bei Kälte entsteht aus Wasser Eis." ]
+  },
+  {
+    "Id": "erholen",
+    "Lexeme": "erholen",
+    "DisplayText": "s erholen",
+    "Reflexive": true,
+    "Prepositions": [ "von etwD" ],
+    "Examples": [ "Sie erholte sich nur langsam von ihrer Krankheit." ]
+  },
+  // Seite 4 -----------------------------------------------------------
+{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },
+{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },
+{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },
+{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },
+{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },{
+    "Lexeme":  "",
+    "DisplayText": "",
+    "Prepositions": [ "" ],
+    "Examples": [ "" ]
+  },
+
+]
